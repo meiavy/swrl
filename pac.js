@@ -27,6 +27,7 @@ function FindProxyForURL(url, host) {
         'bbc.co.uk',
         'brew.sh',
         'bbc.com',
+        'bbci.co',
         'biologymad.com',
         'bit',
         'blockchain.info',
