@@ -26,6 +26,7 @@ function FindProxyForURL(url, host) {
         'aurumxchange.com',
         'bbc.co.uk',
         'brew.sh',
+        'bbc.com',
         'biologymad.com',
         'bit',
         'blockchain.info',
