@@ -247,6 +247,7 @@ function FindProxyForURL(url, host) {
         'wsj.com',
         'xmarks.com',
         'xnxx.com',
+        'xnxx-cdn.com',
         'xvideos.com',
         'yahoo.com',
         'yfrog.com',
