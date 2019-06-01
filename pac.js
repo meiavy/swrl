@@ -182,6 +182,7 @@ function FindProxyForURL(url, host) {
         'radio.com',
         'ramhost.com',
         'readthedocs.org',
+        'recaptcha',
         'reddit.com',
         'redhat.com',
         'redtube.com',
