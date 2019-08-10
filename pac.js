@@ -85,6 +85,7 @@ function FindProxyForURL(url, host) {
         'flare.me',
         'frantech.com',
         'ftchinese.com',
+        'fuchsia.dev',
         'getfoxyproxy.org',
         'gfx.ms',
         'ggpht.com',
